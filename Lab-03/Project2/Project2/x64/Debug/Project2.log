@@ -1,0 +1,42 @@
+﻿  file.cpp
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(6,139): error C2059: syntax error: ','
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(6,176): error C2143: syntax error: missing ';' before '}'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(9,2): error C2059: syntax error: 'for'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(9,2): error C2143: syntax error: missing ')' before ';'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(9,20): error C2143: syntax error: missing ';' before '<'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(9,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(9,20): error C2059: syntax error: '<'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(9,27): error C2143: syntax error: missing ';' before '++'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(9,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(9,26): error C2086: 'int i': redefinition
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(9,18): message : see declaration of 'i'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(9,27): error C2059: syntax error: '++'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(9,29): error C2059: syntax error: ')'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(9,31): error C2143: syntax error: missing ';' before '{'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(9,31): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(17,7): error C2143: syntax error: missing ';' before '<<'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(17,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(17,7): error C2059: syntax error: '<<'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(18,2): error C2059: syntax error: 'for'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(18,2): error C2143: syntax error: missing ')' before ';'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(18,20): error C2143: syntax error: missing ';' before '<'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(18,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(18,18): error C2086: 'int i': redefinition
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(9,18): message : see declaration of 'i'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(18,20): error C2059: syntax error: '<'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(18,27): error C2143: syntax error: missing ';' before '++'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(18,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(18,26): error C2086: 'int i': redefinition
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(9,18): message : see declaration of 'i'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(18,27): error C2059: syntax error: '++'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(18,29): error C2059: syntax error: ')'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(18,31): error C2143: syntax error: missing ';' before '{'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(18,31): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(21,7): error C2143: syntax error: missing ';' before '<<'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(21,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(21,2): error C2086: 'int cout': redefinition
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(17,2): message : see declaration of 'cout'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(21,7): error C2059: syntax error: '<<'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(24,2): error C2059: syntax error: 'return'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(25,1): error C2059: syntax error: '}'
+C:\Users\lenovo\OneDrive\Desktop\Project2\Project2\file.cpp(25,1): error C2143: syntax error: missing ';' before '}'

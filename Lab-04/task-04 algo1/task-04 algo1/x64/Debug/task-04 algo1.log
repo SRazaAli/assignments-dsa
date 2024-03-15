@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\lenovo\OneDrive\Desktop\task-04 algo1\task-04 algo1\FileName.cpp(10,22): warning C4305: 'initializing': truncation from '__int64' to 'int'
+C:\Users\lenovo\OneDrive\Desktop\task-04 algo1\task-04 algo1\FileName.cpp(10,11): warning C4309: 'initializing': truncation of constant value
+  task-04 algo1.vcxproj -> C:\Users\lenovo\OneDrive\Desktop\task-04 algo1\x64\Debug\task-04 algo1.exe
