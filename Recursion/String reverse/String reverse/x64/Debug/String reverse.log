@@ -1,0 +1,4 @@
+﻿  stringReverse.cpp
+E:\Study\Uni\Semester 3\DSA Lab\DSA Lab\Recursion\String reverse\String reverse\stringReverse.cpp(6,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Study\Uni\Semester 3\DSA Lab\DSA Lab\Recursion\String reverse\String reverse\stringReverse.cpp(28,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  String reverse.vcxproj -> E:\Study\Uni\Semester 3\DSA Lab\DSA Lab\Recursion\String reverse\x64\Debug\String reverse.exe

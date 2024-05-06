@@ -1,0 +1,13 @@
+﻿  height_sorter.cpp
+C:\Users\Spring2018\Downloads\codes\Merge Sort\Height sorter\Height sorter\height_sorter.cpp(58,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Spring2018\Downloads\codes\Merge Sort\Height sorter\Height sorter\height_sorter.cpp(58,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Spring2018\Downloads\codes\Merge Sort\Height sorter\Height sorter\height_sorter.cpp(58,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Spring2018\Downloads\codes\Merge Sort\Height sorter\Height sorter\height_sorter.cpp(58,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Spring2018\Downloads\codes\Merge Sort\Height sorter\Height sorter\height_sorter.cpp(58,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Spring2018\Downloads\codes\Merge Sort\Height sorter\Height sorter\height_sorter.cpp(58,46): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Spring2018\Downloads\codes\Merge Sort\Height sorter\Height sorter\height_sorter.cpp(58,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Spring2018\Downloads\codes\Merge Sort\Height sorter\Height sorter\height_sorter.cpp(58,58): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Spring2018\Downloads\codes\Merge Sort\Height sorter\Height sorter\height_sorter.cpp(58,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Spring2018\Downloads\codes\Merge Sort\Height sorter\Height sorter\height_sorter.cpp(58,66): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Spring2018\Downloads\codes\Merge Sort\Height sorter\Height sorter\height_sorter.cpp(58,74): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Height sorter.vcxproj -> C:\Users\Spring2018\Downloads\codes\Merge Sort\Height sorter\x64\Debug\Height sorter.exe

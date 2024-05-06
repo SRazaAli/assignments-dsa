@@ -1,0 +1,4 @@
+﻿  palindrome.cpp
+E:\Study\Uni\Semester 3\DSA Lab\DSA Lab\Recursion\Palindrome\Palindrome\palindrome.cpp(6,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Study\Uni\Semester 3\DSA Lab\DSA Lab\Recursion\Palindrome\Palindrome\palindrome.cpp(24,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Palindrome.vcxproj -> E:\Study\Uni\Semester 3\DSA Lab\DSA Lab\Recursion\Palindrome\x64\Debug\Palindrome.exe
