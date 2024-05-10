@@ -1,0 +1,3 @@
+﻿  student_marks_manager.cpp
+E:\Study\Uni\Semester 3\DSA Lab\DSA Lab\Binary Search Trees\Student marks manager\Student marks manager\student_marks_manager.cpp(123,34): warning C4305: 'argument': truncation from 'double' to 'float'
+  Student marks manager.vcxproj -> E:\Study\Uni\Semester 3\DSA Lab\DSA Lab\Binary Search Trees\Student marks manager\x64\Debug\Student marks manager.exe
