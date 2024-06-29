@@ -1,4 +1,5 @@
 ﻿  FileName.cpp
-E:\Study\Uni\Semester 3\DSA Lab\DSA Lab\PBL\a. Priority Queue (heap approach)\a. Priority Queue (heap approach)\FileName.cpp(56,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-E:\Study\Uni\Semester 3\DSA Lab\DSA Lab\PBL\a. Priority Queue (heap approach)\a. Priority Queue (heap approach)\FileName.cpp(64,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  a. Priority Queue (heap approach).vcxproj -> E:\Study\Uni\Semester 3\DSA Lab\DSA Lab\PBL\a. Priority Queue (heap approach)\x64\Debug\a. Priority Queue (heap approach).exe
+E:\Study\Uni\Semester 3\DSA Lab\DSA Lab\A3-- Parcel Distribution System\a. Priority Queue (heap approach)\a. Priority Queue (heap approach)\FileName.cpp(56,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Study\Uni\Semester 3\DSA Lab\DSA Lab\A3-- Parcel Distribution System\a. Priority Queue (heap approach)\a. Priority Queue (heap approach)\FileName.cpp(64,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Study\Uni\Semester 3\DSA Lab\DSA Lab\A3-- Parcel Distribution System\a. Priority Queue (heap approach)\a. Priority Queue (heap approach)\FileName.cpp(115,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  a. Priority Queue (heap approach).vcxproj -> E:\Study\Uni\Semester 3\DSA Lab\DSA Lab\A3-- Parcel Distribution System\a. Priority Queue (heap approach)\x64\Debug\a. Priority Queue (heap approach).exe

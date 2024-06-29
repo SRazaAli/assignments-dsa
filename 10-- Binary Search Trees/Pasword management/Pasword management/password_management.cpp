@@ -138,7 +138,7 @@ int main() {
 	insertUser(root, "30293", "fhdru383",3);
 	insertUser(root, "923874", "cnsori39843", 9);
 	cout << "==================== Preorder Traversal ====================\n";
-	preorderTraversal(root);
+	inorderTraversal(root);
 	cout << "==================== Search Users ====================\n";
 	searchUser(root, 22);
 	searchUser(root, 3);

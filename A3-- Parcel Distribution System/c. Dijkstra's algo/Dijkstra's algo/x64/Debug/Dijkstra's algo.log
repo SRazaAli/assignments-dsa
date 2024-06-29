@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+E:\Study\Uni\Semester 3\DSA Lab\DSA Lab\PBL\Dijkstra's algo\Dijkstra's algo\FileName.cpp(170,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Study\Uni\Semester 3\DSA Lab\DSA Lab\PBL\Dijkstra's algo\Dijkstra's algo\FileName.cpp(171,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Dijkstra's algo.vcxproj -> E:\Study\Uni\Semester 3\DSA Lab\DSA Lab\PBL\Dijkstra's algo\x64\Debug\Dijkstra's algo.exe

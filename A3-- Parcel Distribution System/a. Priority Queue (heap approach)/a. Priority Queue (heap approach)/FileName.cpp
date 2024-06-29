@@ -80,8 +80,8 @@ void heapSort(vector<Order>& heap) {
 		cout << "---- Priority"<<counter<<" ----\n";
 
 		cout << "Order number : " << heap[i].orderNumber << "\n"
-			<< "Customer Name :" << heap[i].customerName << "\n"
-			<< "Mode of Transport" << heap[i].modeOfTransport << "\n"
+			<< "Customer Name : " << heap[i].customerName << "\n"
+			<< "Mode of Transport : " << heap[i].modeOfTransport << "\n"
 			<< "Distance : " << heap[i].distance << "\n"
 			<< "Deadline : " << heap[i].deadline << "\n";
 
@@ -98,7 +98,7 @@ void printList(vector<Order>& heap)
 
 		cout <<"Order number : "<< heap[i].orderNumber << "\n"
 			<< "Customer Name :"<<heap[i].customerName << "\n"
-			<< "Mode of Transport"<<heap[i].modeOfTransport << "\n"
+			<< "Mode of Transport : "<<heap[i].modeOfTransport << "\n"
 			<< "Distance : "<<heap[i].distance << "\n"
 			<< "Deadline : "<<heap[i].deadline << "\n";
 	
@@ -106,25 +106,39 @@ void printList(vector<Order>& heap)
 	}
 }
 
+void expenseCalculation(vector<Order> &heap) {
+	float totalDistance = 0;
+	for (int i = 0; i < heap.size(); i++) {
+		totalDistance += heap[i].distance;
+	}
+	float petrolUsed = totalDistance / 35;
+	float costOfPetrol = petrolUsed * 289.33;
+	cout << "Total distance covered (in kilometeres) : " << totalDistance << "\n"
+		<< "Amount of petrol used (in liters) : " << petrolUsed << "\n"
+		<< "Cost of petrol per liter : 289.33 rupees\n"
+		<< "Cost of petrol for " << totalDistance << "kms : " << costOfPetrol<<"rupees\n";
+	
+}
+
 int main() {
 
 	vector<Order> heap;
 	
 	Order order1 = Order("Raza",20,"Road",12,"4/June/22");
-	Order order2 = Order("Ali", 17, "Truck", 34, "4/June/22");
-	Order order3 = Order("Shayan", 34, "Rail", 389, "4/June/22");
+	Order order2 = Order("Ali", 17, "Truck", 34, "1/June/22");
+	Order order3 = Order("Shayan", 34, "Rail", 389, "7/June/22");
 	Order order4 = Order("Rehman", 29, "Bus", 31, "4/June/22");
-	Order order5 = Order("Aimen", 83, "Rail", 19, "4/June/22");
-	Order order6 = Order("Muskan", 16, "Rail", 39, "4/June/22");
-	Order order7 = Order("Zubair", 58, "Truck", 112, "4/June/22");
-	Order order8 = Order("Alishba", 42, "Air", 921, "4/June/22");
-	Order order9 = Order("Saireen", 39, "Road", 31, "4/June/22");
-	Order order10 = Order("Ammar", 65, "Bus", 39, "4/June/22");
-	Order order11 = Order("Ahmad", 76, "Truck", 91, "4/June/22");
-	Order order12 = Order("Zikria", 51, "Road", 23, "4/June/22");
-	Order order13 = Order("Manahil", 93, "Bus", 71, "4/June/22");
+	Order order5 = Order("Aimen", 83, "Rail", 19, "28/June/22");
+	Order order6 = Order("Muskan", 16, "Rail", 39, "10/June/22");
+	Order order7 = Order("Zubair", 58, "Truck", 112, "8/June/22");
+	Order order8 = Order("Alishba", 42, "Air", 921, "6/June/22");
+	Order order9 = Order("Saireen", 39, "Road", 31, "9/June/22");
+	Order order10 = Order("Ammar", 65, "Bus", 39, "23/June/22");
+	Order order11 = Order("Ahmad", 76, "Truck", 91, "27/June/22");
+	Order order12 = Order("Zikria", 51, "Road", 23, "30/June/22");
+	Order order13 = Order("Manahil", 93, "Bus", 71, "5/June/22");
 	Order order14 = Order("Mishkat", 27, "Rail", 480, "4/June/22");
-	Order order15 = Order("Saad", 43, "Air", 347, "4/June/22");
+	Order order15 = Order("Saad", 43, "Air", 347, "18/June/22");
 
 
 	insert(heap, order1);
@@ -150,5 +164,7 @@ int main() {
 	cout << "============ Orders In Priority ============\n\n";
 	heapSort(heap);
 
+	cout << "============ Expense required ============\n\n";
+	expenseCalculation(heap);
 	return 0;
 }
